@@ -5,3 +5,7 @@ This site help alumni who have their own business send an online discount coupon
 ## Authors
 
 * **Reawpai Chunsoi** - [Phaicom](https://github.com/Phaicom)
+
+## License
+
+This project is licensed under the MIT License

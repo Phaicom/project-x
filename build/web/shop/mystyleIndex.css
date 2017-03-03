@@ -1,0 +1,179 @@
+body {
+    font-family:Century Gothic;
+    color: #dfa215;
+    background-color: #f9f8f0}
+    #login {
+    float: right 
+}
+
+a:link {
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+color: #FF9900;
+}
+a:active {
+text-decoration: none;
+color: #FF9900;
+}
+
+.navbar-default1 .navbar-brand {
+  color: #ffffff;
+ font-family: Alien League;
+    text-align: center;
+    padding-left: 5em;
+    font-size: 25pt;
+}
+
+
+.nav{
+  padding-left: 65em;
+  color: aqua
+}
+
+.navbar-default1 .navbar-nav>li>a {
+  color: #ffffff;
+  font-size: 13pt;
+}
+
+.navbar-default1{
+    padding-top: 65px;
+    background:#f23546;
+}
+
+.navbar-default1 .navbar-nav>li>a.logout  {
+  color: #48332b;
+}
+
+.formoid-biz-red .medium {
+  width: 50%;
+}
+
+
+
+
+.navbar-default2{
+    margin-right: 105px;
+    margin-left: 105px;
+    margin-top: 73px;
+    background:#333333;
+}
+
+.navbar-brand, .navbar-nav>li>a {
+  text-shadow: 0 1px 0 rgba(255,255,255,.25);
+}
+	
+.account-top h3{
+	text-align:center;
+	color:#ffffff;
+	font-size:1.2em;
+	padding:1em;
+	background:#2d2d2d;	
+}
+
+ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	text-decoration:none;
+	}
+	
+li{
+	float:left;
+	font-size:15px;
+	color:#c35d12;
+	height:42px;
+	display:block;
+	position:relative;
+	text-decoration:none;
+	}
+
+
+
+.otherA{
+    color: white;
+}
+	
+li .hover{
+	color:#d2e997;
+	text-decoration:none;
+    padding-bottom: -50;
+	position:absolute;
+	background:#fe4646 top left no-repeat;
+	top:0;
+	left:0;
+	z-index:0;
+	height:44px;
+	display:none;
+    text-decoration:none;
+	}
+ul.dropdown-menu :hover a{
+    background:#312d28 top left no-repeat
+}
+
+a.dropdown-toggle{
+    color: white; 
+
+    }
+
+
+
+li a{
+	display:block;
+	color:#333333;
+	text-decoration:none;
+	padding:14px 36px 13px 36px;
+	z-index:1000;	
+	position:relative;
+	}
+
+
+	
+ul li:hover ul{
+	
+	display:block;
+
+	}
+
+.title{
+	background:#fff;
+	padding:1.5em 1em;
+	 
+}
+.title h4{
+  font-size: 1.2em;
+}
+.title h4 a{
+	color: #DC483A;
+  text-decoration:none;
+}
+.title h4 a:hover{
+	color: #2d2d2d;
+}
+.title p{
+  font-size: 0.875em;
+  color: #2d2d2d;
+  padding: 1em 0 ;
+  line-height:1.5em;
+}
+.title span{
+  font-size: 0.875em;
+  color: #D2D1D1;
+}
+.b
+.book-top{
+	position:relative;
+	text-align:center;
+}
+.book-top img{
+	width:100%;
+}
+
+.footer{
+    background:#ffffff; 
+    margin-bottom: 10px;
+}

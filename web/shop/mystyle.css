@@ -1,0 +1,239 @@
+body {
+    font-family:Century Gothic;
+    color: #dfa215;
+    background-color: #ffffff }
+    #login {
+    float: right 
+}
+
+    a{
+    color:#da2f52
+}
+
+.navbar {
+    border:0px;
+    background:#e91e63;
+      min-height: 50;
+}
+
+.nav{
+  padding-left: 65em;
+  color: aqua
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #ffffff;
+  font-size: 13pt;
+}
+
+.navbar-default .navbar-nav>li>a.logout  {
+  color: #48332b;
+}
+
+.formoid-biz-red .medium {
+  width: 50%;
+}
+
+
+.navbar-brand, .navbar-nav>li>a {
+  text-shadow: 0 1px 0 rgba(255,255,255,.25);
+}
+
+
+.your-at{
+	  margin-bottom: -2em;
+   
+  text-align: left;
+    font-size: 12pt;
+    background:#fff;
+	padding:1.5em 18em;
+	
+}
+#filenform{
+    text-align:left;
+    margin-top: 2em
+}
+.your-at input[type="text"],.your-at input[type="email"],.your-at input[type="tel"], .your-at input[type="password"], .your-at input[type="number"],.your-at input[type="date"],.your-at select{
+	background:none;
+    
+	width:70%;
+	outline:none;
+	margin: 1em 0 0;
+	padding:0.8em;
+	font-size:1em;
+	color:#e91e62;
+	border:1px solid #eee;	
+}
+.your-at input[type="submit"] {
+	background: #ff003c;
+	width: 43%;
+    
+	outline: none;
+	border: none;
+	padding: 0.5em;
+	font-size: 1em;
+	color: #fff;
+	margin: 1em 25px 0.5em 1px;
+	text-align: center;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+
+.your-at input[type="submit"]:hover{
+	background:#eee;
+	color:#2d2d2d;
+    
+}
+
+.shopAddorEdit{
+    text-align: center;
+}
+
+.nameShopAddorEdit{
+    text-align: center;
+}
+
+
+.nameShopAddorEdit input[type="submit"],.nameShopAddorEdit input[type="button"]{
+    background: #5d4037;
+	width: 28%;
+    
+	outline: none;
+	border: none;
+	padding: 0.5em;
+	font-size: 2em;
+	color: #fff;
+	margin: 1em 0.5em 0.5em;
+	text-align: center;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+    
+}
+
+.nameShopAddorEdit input[type="submit"],.nameShopAddorEdit input[type="button"]:hover{
+	background:#eee;
+	color:#2d2d2d;
+    
+}
+
+.selectShop{
+    color: darkslategrey;
+    font-size: 13pt;
+    text-align: center;
+}
+
+
+.selectShop input[type="submit"]{
+    background: #ff3366;
+	width: 28%;
+	outline: none;
+	border: none;
+	padding: 0.5em;
+	color: #fff;
+	margin: 1em 0.5em 0.5em;
+	text-align: center;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+
+}
+
+
+.selectShop input[type="button"]:hover{
+	background:#eee;
+	color:#2d2d2d;
+}
+
+
+
+ .main-navigation{
+	width:1120px;
+	height:44px;
+	border:1px dashed #a2d2cf;
+	background:#dc25c2 left repeat-x;
+	top:50%;
+	left:50%;
+	margin:-210px 0 10 -550px;
+	position:absolute;
+	}
+	
+ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	
+	}
+	
+li{
+	float:left;
+	font-size:15px;
+	color:#c35d12;
+	height:42px;
+	display:block;
+	position:relative;
+	
+	}
+	
+	
+li .hover{
+	color:#d2e997;
+	text-decoration:none;
+	position:absolute;
+	background:#312d28 top left no-repeat;
+	top:0;
+	left:0;
+	z-index:0;
+	height:44px;
+	display:none;
+	}
+
+li a{
+	display:block;
+	color:#ecda12;
+	text-decoration:none;
+	padding:14px 43px 13px 22px;
+	z-index:1000;	
+	position:relative;
+	}
+
+	
+ul li ul{
+	width:200px;
+	position:absolute;
+	display:none;
+	top:44px;
+	padding:1px 0 0 0;
+	}
+	
+ul li:hover ul{
+	
+	display:block;
+
+	}
+	
+ul li ul li{
+	display:block;
+	padding:10px 10px 10px 0;
+	width:200px;
+	padding:0px;
+	margin:0px;
+	background:#de1235 left repeat-x;
+	position:relative;
+	}
+	
+ul li ul li a{
+	display:block;
+	color:#f12a23;
+	text-decoration:none;
+	padding:14px 43px 13px 28px;
+	z-index:1000;	
+	position:relative;
+	}
